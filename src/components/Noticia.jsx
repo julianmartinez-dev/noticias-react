@@ -38,16 +38,16 @@ const Noticia = ({ noticia }) => {
             target="_blank"
             variant="button"
             sx={{
-                textAlign: 'center',
-                width: '100%',
-                textDecoration: 'none',
-                color: 'white',
-                padding: '4px 6px',
-                backgroundColor: '#0066ff',
-                borderRadius: '5px',
-                '&:hover': {
-                    backgroundColor: '#2c7bf1',
-                }
+              textAlign: 'center',
+              width: '100%',
+              textDecoration: 'none',
+              color: 'white',
+              padding: '4px 6px',
+              backgroundColor: '#0066ff',
+              borderRadius: '5px',
+              '&:hover': {
+                backgroundColor: '#2c7bf1',
+              },
             }}
           >
             Leer mas
